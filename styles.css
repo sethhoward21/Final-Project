@@ -1,0 +1,29 @@
+ body {
+     background-color: burlywood;
+ }
+
+ h1 {
+     color: darkred;
+     font-size: 25px;
+ }
+h2 {
+    font-size: 20px;
+}
+ #instruct1 {
+     color: darkred;
+ }
+ #instruct2 {
+    color: darkred;
+}
+#lost {
+    font-size: 100px;
+    color: darkred;
+}
+#lost2 {
+    font-size: 100px;
+    color: darkred;
+}
+
+ .remove {
+    display: none
+}
